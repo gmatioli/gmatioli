@@ -30,7 +30,7 @@ I bring a strong logical foundation from my background in **Industrial Automatio
 
 <div align="center">
   <a href="https://github.com/gmatioli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmatioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmatioli&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatioli&layout=compact&theme=tokyonight"/>
   </a>
 </div>
