@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Developer | Front-end | Python Enthusiast
 
-Based in São Paulo, Brazil, I'm a **Systems Development Intern** passionate about creating clean and efficient web applications.
+Based in São Paulo, Brazil, I'm a **Systems Development Trainee** passionate about creating clean and efficient web applications.
 
 I bring a strong logical foundation from my background in **Industrial Automation**, but my focus now is strictly on code. I love turning complex problems into simple, user-friendly interfaces.
 
